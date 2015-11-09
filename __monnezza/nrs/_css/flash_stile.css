@@ -1,0 +1,203 @@
+p {
+	font-family:"MyFont";
+	display:block;
+	color:#FFFFFF;
+}
+.esploraTesta{font-size:24px;font-family:"myFont";
+	background-color:#colA;
+	color:#FFFFFF;
+}
+.colA{
+	background-color:#colA;
+}
+.colB{
+	background-color:#colB;
+}
+.colC{
+	background-color:#colC;
+}
+.partecipaPiede{font-size:16px;font-family:"myFont";
+	background-color:#colC;
+	color:#FFFFFF;
+	text-align:right;
+}
+.esploraBox{
+	background-color:#colA;
+	color:#FFFFFF;
+}
+.partecipaTesta{font-size:24px;font-family:"myFont";
+	background-color:#colC;
+	color:#FFFFFF;
+}
+.inOndaTesta{font-size:24px;font-family:"myFont";
+	background-color:#404040;
+	color:#FFFFFF;
+}
+.esploraHeader{font-size:24px;font-family:"myFont";
+	background-color:#colA;
+	color:#FFFFFF;
+}
+.partecipaHeader{font-size:24px;font-family:"myFont";
+	background-color:#colC;
+	color:#FFFFFF;
+}
+.inOndaHeader{font-size:24px;font-family:"myFont";
+	background-color:#404040;
+	color:#FFFFFF;
+}
+.esploraTesta{font-size:24px;font-family:"myFont";
+	background-color:#colA;
+	color:#FFFFFF;
+}
+.myMenuInactive{background-color:#000000;color:#FFFFFF;}
+.partecipaMenuInactive{background-color:#000000;color:#FFFFFF;}
+.inOndaPulsaInactive{background-color:#000000;color:#FFFFFF;}
+.myFooterInactive{background-color:#000000;color:#FFFFFF;}
+.regMenu{background-color:#colA;color:#FFFFFF;font-size:16px;}
+.reg{background-color:#colA;color:#FFFFFF;font-family:"Verdana";font-size:11px;}
+.simpleSearch{background-color:#colA;color:#FFFFFF;font-family:"Verdana";font-size:11px;}
+.regBig{background-color:#colA;color:#FFFFFF;font-family:"Verdana";font-size:11px;}
+.tabellaWeekTit{font-size:13px;color:#FFFFFF;}
+.pager{font-size:16px;background-color:#404040;color:#FFFFFF;}
+.pulsS{
+	font-size:14px;
+	background-color:#colC;
+	color:#FFFFFF;
+}
+.post{
+	background-color:#colC;
+	color:#FFFFFF;
+}
+
+.userMini{font-size:16px;text-align:right;color:#FFFFFF;}
+.userMiniH{font-size:11px;color:#FFFFFF;background-color:#999999;font-family:"Verdana"}
+.stitUser{font-size:11px;color:#FFFFFF;font-family:"Verdana"}
+.featStitUser{font-family:"Verdana";font-size:10px;color:#FFFFFF;}
+.dettUserTit{font-size:16px;}
+.dettUser{font-size:11px;color:#FFFFFF;font-family:"Verdana"}
+
+.titPost{font-size:16px;color:#FFFFFF; display:block;}
+.txtPost{font-size:11px;color:#FFFFFF;font-family:"Verdana"}
+.nero{color:#000000;}
+.bianco{color:#FFFFFF;}
+.postPager{font-size:16px;background-color:#colA;color:#FFFFFF;}
+.postPagerB{font-size:16px;background-color:#colA;color:#FFFFFF;}
+.postFeatured{background-color:#colC;color:#FFFFFF;}
+.profile{background-color:#colC;color:#FFFFFF;}
+.myData{background-color:#colC;color:#FFFFFF;}
+.myPref{background-color:#colC;color:#FFFFFF;}
+.titUser{font-size:20px;color:#FFFFFF;}
+.commenti{font-family:"Verdana";font-size:9px;color:#000000;background-color:#999999;}
+.commentiTit{font-size:16px;color:#000000;display:block;font-weight:bold;padding:15px 5px 5px 5px;}
+.next{ text-align:right;}
+.page{text-align:center;}
+
+/*.inOndaPulsa{font-size:16px;font-family:"myFont";background-color:#404040;color:#FFFFFF;}*/
+.inOndaPulsa{font-size:16px;font-family:"myFont";background-color:#404040;color:#FFFFFF;}
+.myFooter{background-color:#1A1A1A;color:#FFFFFF;font-size:12px;}
+#myFooter{background-color:#1A1A1A;}
+#corporateTesta{background-color:#000000;color:#FFFFFF;}
+
+/*
+#logoCol{
+	background-color:#colA;
+}
+#esplora{
+	background-color:#colA;
+	color:#FFFFFF;
+}
+#partecipa{
+	background-color:#colC;
+	color:#FFFFFF;
+}
+#inOndaTesta{
+	background-color:#404040;
+	color:#FFFFFF;
+}
+#mainTag{
+	background-color:#colB;
+	color:#FFFFFF;
+}
+#mainEsplora{
+	background-color:#colA;
+	color:#FFFFFF;
+}
+#maxTitle{
+	background-color:#808080;color:#FFFFFF;
+}
+*/
+.miniEsplora{
+	background-color:#colA;
+	color:#FFFFFF;
+}
+#miniTag{
+	background-color:#colA;
+	color:#FFFFFF;
+}
+#miniTitle{
+	background-color:#808080;color:#FFFFFF;
+}
+#miniSearch{
+	background-color:#808080;color:#FFFFFF;
+}
+
+.tit400{color:#404040;background-color:#E1E1E1;font-size:20px;}
+.tit400H{color:#E1E1E1;background-color:#404040;font-size:20px;}
+.stit400{color:#404040;font-size:16px;}
+.stit400H{color:#E1E1E1;font-size:16px;}
+.postTxt{font-family:"Verdana";font-size:11px;}
+.txt400{color:#000000;font-family:"Verdana";font-size:11px;}
+.txt400H{color:#E1E1E1;font-family:"Verdana";font-size:11px;}
+/**/
+.tabellaWeekTit{background-color:#808080;color:#FFFFFF;}
+.tabellaWeekTd{background-color:#BFBFBF;color:#000000;}
+.tabellaWeekTdLink{color:#FFFFFF;background-color:#404040;}
+.titTab{font-size:12px;display:block;}
+.oraTab{font-size:16px;display:block;}
+.titTabH{font-size:12px;display:block;}
+.oraTabH{font-size:16px;display:block;}
+/**/
+.hlTit{font-size:16px;}
+.hlDay{font-size:14px;}
+.hlOra{font-size:18px;}
+#hl1{background-color:#404040;color:#FFFFFF;}
+#hl2{background-color:#808080;color:#FFFFFF;}
+#hl3{background-color:#BFBFBF;color:#FFFFFF;}
+/**/
+#miniCal{background-color:#404040;color:#FFFFFF;}
+.calMese{font-size:20px;}
+.calMeseNP{font-size:16px;}
+.colCal{font-size:11px;background-color:#404040;color:#FFFFFF;}
+.colCalDay{background-color:#404040;color:#BFBFBF;}
+.iniziativeMenu {font-size:20px;color:#FFFFFF;background-color:#E0AC29;}
+.searchTit{font-size:14px;}
+.regMenu{font-size:20px;background-color:#colA;color:#FFFFFF;}
+.partecipaMenu{font-size:17px;color:#FFFFFF;background-color:#colC;}
+.partecipaMenu2{font-size:17px;color:#FFFFFF;background-color:#colC;}
+.partecipaMenu3{font-size:17px;color:#FFFFFF;background-color:#colC;}
+.myMenu{font-size:17px;background-color:#colA;color:#FFFFFF;}
+.resultMenu{font-size:17px;color:#FFFFFF;background-color:#404040;}
+/**/
+a:link,a:visited,a:active{text-decoration:underline;color:#000000;}
+a:hover{color:#404040;}
+.myInline {display:inline;}
+strong {display:inline; font-weight:bold;}
+/**/
+/*.myHidden{display:none;}*/
+/**/
+.myLabel{font-family:"Verdana";font-size:10px;color:#000000;}
+.myLabelI{font-family:"Verdana";font-size:10px;color:#000000;}
+.myLabelS{font-family:"Verdana";font-size:10px;color:#FFFFFF;}
+.searchSubtit{font-family:"Verdana";font-size:10px;color:#FFFFFF;font-weight:normal;}
+.size12 {font-size:14px;}
+.size13 {font-size:15px;}
+.size14 {font-size:16px;}
+.size15 {font-size:17px;}
+.size16 {font-size:18px;}
+.size17 {font-size:19px;}
+.size18 {font-size:20px;}
+.size19 {font-size:21px;}
+.size20 {font-size:22px;}
+/*///////*/
+/**/
+/*///////*/

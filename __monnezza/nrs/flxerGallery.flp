@@ -1,0 +1,19 @@
+﻿<flash_project name="flxerGallery" version="1">
+    <project_folder name="comp" expanded="true">
+        <project_file path="./comp/squareButton.as" filetype="as" />
+        <project_file path="./comp/graButton.as" filetype="as" />
+    </project_folder>
+    <project_folder name="main" expanded="true">
+        <project_file path="./main/xmlLoader.as" filetype="as" />
+        <project_file path="./main/cssLoader.as" filetype="as" />
+        <project_file path="./main/drawerFunc.as" filetype="as" />
+        <project_file path="./main/flxerPlayer.as" filetype="as" />
+        <project_file path="./main/mcLoader.as" filetype="as" />
+        <project_file path="./main/myTween.as" filetype="as" />
+        <project_file path="./main/mmSelector.as" filetype="as" />
+        <project_file path="./main/mmToolbar.as" filetype="as" />
+        <project_file path="./main/flxerGallery.as" filetype="as" />
+    </project_folder>
+    <project_file path="./starterGallery.as" filetype="as" />
+    <project_file path="./flxerGallery.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

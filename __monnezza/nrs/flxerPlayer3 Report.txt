@@ -1,0 +1,79 @@
+flxerPlayer3.swf Movie Report
+------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          23372          23372    Scene 1 (AS 2.0 Classes Export Frame)
+      2             23          23395    
+      3             35          23430    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                   118
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+playpause                              0             0                    21
+ss                                     0            13                    19
+piede                                  0             0                    40
+quadrato                              12             0                     0
+quadrato_filo2                        12             0                     0
+freccetta2                            12             0                     0
+alt2                                   0            47                   377
+#000000                               10             0                     0
+#FFFFFF                               11             0                     0
+arrow                                 14             0                     0
+indice_curs                            0             0                     0
+indice                                 0             0                     0
+fw_rw                                  0             0                    20
+volume                                 0             0                     4
+contr                                  0             0                    62
+flxer                                  0            14                     0
+toolbar                                0            17                    20
+myEmbed                                0            73                    17
+video                                  0             0                     0
+empty                                  0             0                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+standard 07_53   8 pts         6381     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Verdana                           9    
+
+ActionScript Bytes    Location
+------------------    --------
+                17    myEmbed:Layer 4:1:c(ss)
+                15    contr:Layer 5:1:rw(fw_rw)
+                 0    volume:Livello 2:1
+                 1    volume:Livello 1:1:No instance name assigned(#000000)
+                 3    volume:Livello 3:1:path(#000000)
+                 0    volume:Livello 2:2
+                15    contr:Layer 5:1:fw(fw_rw)
+                19    contr:Layer 5:1:selector(ss)
+                 0    playpause:Layer 3:1
+                 0    playpause:Layer 3:2
+                13    contr:Layer 5:1:playpause(playpause)
+                22    piede:Layer 2:1:ss(ss)
+                18    piede:Layer 3:1:m(ss)
+               377    alt2:Livello 2:1
+                 0    quadrato_filo2:Livello 1:1
+                66    Scene 1:Layer 1:1:alt(alt2)
+                20    fw_rw:Layer 1:1
+                 0    playpause:Layer 3:1
+                21    playpause:Layer 1:1
+                20    toolbar:Layer 1:1
+                19    ss:Layer 1:1
+                20    Scene 1:Layer 2:2
+                32    Scene 1:Layer 2:3
+             15483    ActionScript 2.0 Classes
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+texture16.gif                     12         256   Lossless
+
+Video                       Compressed
+------------------------    ----------
+vid_flv                               0
+
+
+
+
